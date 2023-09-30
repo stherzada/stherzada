@@ -3,8 +3,8 @@
 <div align="center";>
   
 <p> ✌ Hello again,  </p>
-<p> ✨ i'm Sthefany Sther, i'm 22 years old. </p>
-<p> 💻 Currently graduating in computer science at UNIVERSIDADE DA CIDADE DE SÃO PAULO.</p>
+<p> ✨ I'm Sthefany Sther, i'm 22 years old. </p>
+<p> 💻 Currently graduating in computer science at UNICID - Universidade da Cidade de São Paulo.</p>
 
 
 ![luffy](.github/219673.gif)
