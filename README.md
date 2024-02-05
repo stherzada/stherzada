@@ -1,10 +1,10 @@
 <h1 align="center"> 🤍 </h1>
 <br>
-<p align="center">Hello, i'm Sther, better known at <b>Stherzada</b>! ✨</p>
+<p align="center">Hello, I'm Sther, better known at <b>Stherzada</b>! ✨</p>
 <p align="center">Currently, i work as a <b><i>Tech Community Manager</i></b>, but I've previously worked as a <i>Front End Developer</i>, and i'm diving deeper into the field of <i><b>Data Science</b></i>.</p>
 <br>
 <br>
-<img src="https://i.imgur.com/JLRMKTS.gif" align="right" width="500px" />
+<img src="https://i.imgur.com/JLRMKTS.gif" align="right" width="400px" />
 
 - 💻 I stream live coding on [**Twitch**](https://www.twitch.tv/stherzada).
 - 🏫 I have a Bachelor's degree in Computer Science from [**UNICID**](https://www.unicid.edu.br).
