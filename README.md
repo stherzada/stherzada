@@ -1,7 +1,7 @@
 <h1 align="center"> 🤍 </h1>
 <br>
 <p align="center">Hello, I'm Sther, better known at <b>Stherzada</b>! ✨</p>
-<p align="center">Currently, i work as a <b><i>Software Developerr</i></b>, and i'm diving deeper into the field of <i><b>Data Science</b></i>.</p>
+<p align="center">Currently, i work as a <b><i>Software Developer</i></b>, and i'm diving deeper into the field of <i><b>Data Science</b></i>.</p>
 <br>
 <br>
 <img src="https://i.imgur.com/JLRMKTS.gif" align="right" width="400px" />
