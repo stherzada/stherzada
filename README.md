@@ -4,7 +4,7 @@
 
 ### Hello, I'm Sther, better known as **Stherzada**! ✨
 
-Currently working as a Software Developer at [**Carcará**](https://www.linkedin.com/company/carcará) and diving deeper into **_Data Science_**.
+Currently working as a Software Developer at [**Deco**](https://www.linkedin.com/company/deco-cx/) and diving deeper into **_Data Science_**.
 
 <img src="https://i.imgur.com/JLRMKTS.gif" width="400px" align="right" />
 
