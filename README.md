@@ -2,7 +2,7 @@
   
 # 🤍
 
-### Hello, I'm Sther, better known as **Stherzada**! ✨
+### Hello, I'm Sther, better known as **Stherzada**! ✨✨
 
 Currently working as a Software Developer at [**Deco**](https://www.linkedin.com/company/deco-cx/) and diving deeper into **_Data Science_**.
 
