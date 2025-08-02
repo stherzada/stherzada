@@ -2,9 +2,9 @@
   
 # 🤍
 
-### Hello, I'm Sther, better known as **Stherzada**! ✨✨
+### Hello, I'm Sther, better known as **Stherzada**! ✨✨ 
 
-I'm Software Developer and diving deeper into **_Data Science_**.
+I'm Software Developer in **abacatepay** and **quatrodois**.
 
 <img src="https://i.imgur.com/JLRMKTS.gif" width="400px" align="right" />
 
