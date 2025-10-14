@@ -1,17 +1,15 @@
 <div align="center">
-  
-# 🤍
 
-### Hello, I'm Sther, better known as **Stherzada**! ✨✨ 
+### Hello, I'm Sther, better known as **Stherzada**! ✨ 
 
-I'm Software Developer in **abacatepay** and **quatrodois**.
+I'm Software Developer in **quatrodois**.
 
-<img src="https://i.imgur.com/JLRMKTS.gif" width="400px" align="right" />
+<img src="https://66.media.tumblr.com/ec91d01e032655ead88cb109ed646b8e/tumblr_pz5xlpm2wT1tgo74ho1_640.gif" width="400px" align="right" />
 
 </div>
 
 ### About me
-- 💻 I stream live coding on [**Twitch**](https://www.twitch.tv/stherzada)
+- 💻 I stream about tech and lifestyle on [**Twitch**](https://www.twitch.tv/stherzada)
 - 🎓 Bachelor's degree in Computer Science from [**UNICID**](https://www.unicid.edu.br)
 - 💡 Main languages are [**Python**](https://python.org), [**TypeScript**](https://www.typescriptlang.org) and [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - 😄 Pronouns: `She/Her`
